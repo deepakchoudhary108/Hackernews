@@ -12,3 +12,4 @@ pagination for more feeds etc.
 
 jenkins ci cd pipeline integration test
 jenkins test cicd test
+Auto Polling based on commit
