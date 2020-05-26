@@ -4,9 +4,6 @@ import React from 'react';
 import renderer from './helpers/renderer';
 import createStore from './helpers/createStore';
 
-
-
-
 const app = express();
 
 //look into static directory 'public' and find bundle.js
