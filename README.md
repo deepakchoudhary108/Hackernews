@@ -11,4 +11,4 @@ pagination for more feeds etc.
 
 
 jenkins ci cd pipeline integration test
-jenkins test
+jenkins test cicd
