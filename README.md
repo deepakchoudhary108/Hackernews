@@ -9,3 +9,6 @@ Fetch posts /front page api
 displays posts
 pagination for more feeds etc.
 
+
+jenkins ci cd pipeline integration test
+
